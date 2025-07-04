@@ -1,0 +1,54 @@
+Types of errors syntax,logical...
+builtin exceptions
+1.Exception-base class for all exceptions
+2.stopIteration-next() method doesnot point any object
+3.SystemExit-sys.exit() function
+4.StandardError
+5.ArthmeticError-math calc 10/0
+6.OverflowError-numeric type exceeding the limit of its size
+7.ZeroDivisionError-10/0(when we did division with zero)
+8.AsserionError-Assert statement
+9.EOFError- Till end of last statement, when on IO or return value occers
+10.ImportError
+11.KeyboardInterrupt
+12.LookupError
+13.IndexError-list [1,2,3,4]
+14.NameError
+16.EnvironmentError-method consider/ on value
+17.IOError- file io read fail
+18.SystemError
+19.ValueError
+20.RuntimeError
+21.TypeError
+22.SyntaxError
+23.IndentationError
+24.NotImplementError
+25.randomError
+
+
+inheritance(abstract)
+
+syntax try and catch
+
+try:
+  ----
+  ----
+except Exceptionname:
+   -------
+   -------
+
+
+
+
+try:
+   ------
+   ------
+finally:
+   ------
+   ------
+  
+
+
+  command line arg:
+  sys arg
+  import sys
