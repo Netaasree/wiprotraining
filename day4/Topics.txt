@@ -1,0 +1,46 @@
+IO Operatons/Handling
+ASCII test files - reading writing append char
+
+ABC
+656667
+65-binary
+66-binary
+67-binary
+
+function for opening and closing file 
+
+file
+syntax
+fileobj = 
+open(filename[access_mode])
+access_mode -
+r-default mode for opening a file which opens the file for rading only
+rb - opnes file in binary format
+r+ - opens both reading / writing
+rb+ - opens both reading/writing in binary format
+w - opens writing format
+
+creates a file on that name when destination is not provided
+
+wb = binary format/write
+w+ = reding/writing
+wb+ = 
+a - append opens a file to append the data
+ab - appending binary data
+a+ -reading and append
+ab+ - reading and appending pf binary data
+
+file obj attributes
+fileobj.closed - return true if the file i closed and false otherwise
+fileobj.mode - opening access
+filoeobj.name - returns the file name
+
+
+file methods
+fileno()-file number in your tool
+flush()-clears the write buffer from i/p
+isatt()-returns Boolean 0/p, file stream is
+        interactive or not
+readline(n):particular line
+truncate(n):reallocates the file size byte
+rstrip():
