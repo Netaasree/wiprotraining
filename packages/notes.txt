@@ -1,0 +1,17 @@
+numpy
+matrices-coordinates location
+math functions stastics/algebra
+
+np.random.rand() - uniform random values
+np.random.randn()- non uniform 
+np.dot-multiplication-matrices
+np.arange()-random range of values
+np.array()-create/delete/access
+np.zeros()/ones()-creates an entire array with 0/1
+np.mean()
+np.std()
+np.unique()
+np.linalg.inv()
+
+
+
