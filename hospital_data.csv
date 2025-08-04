@@ -1,7 +1,0 @@
-patient_ID,Name,Age,Department,Bill
-P001,vijay,34.0,carona,7000.0
-P002,Ajay,30.0,cancer,8000.0
-P003,kiran,,neurology,9000.0
-P004,Amit,60.0,cardiology,10000.0
-P005,suresh,25.0,cancer,11000.0
-P006,,50.0,ICU,
