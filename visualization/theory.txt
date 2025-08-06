@@ -1,0 +1,10 @@
+plot()-keywords
+color--linecolor-'red'/#ccc000(either we can write code)
+linestyle-line type-'-','--',':',',' .-./-.-
+linewidth-thickness of the line-2,3.5,4
+marker-symbol-'o','s','^'
+linewidth-thickness of the line-2,3,5,4
+marker size: 6,8,9,10
+marker color-'yellow'
+marker edge color-'black'
+label-legend-line1 and 
