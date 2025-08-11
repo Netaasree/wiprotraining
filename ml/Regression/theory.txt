@@ -1,0 +1,30 @@
+ml->supervised
+
+linear regression-line representation i/o
+multiple linear regressions-multiple inputs
+ploynomial-ploynomial terms for non linear relridge/lasso regression
+
+
+from sklearn.linear_model import LinearRegression
+#models-linear/ridge/lasso/logistic...
+#sklearn.linear_model
+LinearRegression-
+parameter calling->fit_intercept=True=True
+normalize
+n_job-threads
+positive=False
+
+
+training model:
+model.fit()
+shape(samples,features)
+coffiecent-
+
+model.predict()
+
+ploynomoial features-
+
+1-doubles
+reshape
+
+#mbm-main-pbe
